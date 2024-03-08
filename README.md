@@ -1,5 +1,4 @@
 # GameTests
-A repo to store some of my small game projects for testing and learning purposes
 
 You can run the Slither.io blend file using UPBGE. This projected was tested on UPBGE 0.30.0
 
